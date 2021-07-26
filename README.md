@@ -1,0 +1,1 @@
+Simple chat project using node.js, express.js and typescript
